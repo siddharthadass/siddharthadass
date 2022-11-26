@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddharthadass
-- 👀 I’m interested in music,gaming annd developing new skills.
+- 👀 I’m interested in travel,gaming annd volunteering.
 - 🌱 I’m currently learning Java and pursuing B.Tech from Electronics and Communication.
-- 💞️ I’m looking to collaborate on Java projects.
+- 💞️ I’m looking to collaborate on Java  and web development projects.
 - 📫  reach me at my email i.e. siddharthadass87902@gmail.com.
 
 <!---
